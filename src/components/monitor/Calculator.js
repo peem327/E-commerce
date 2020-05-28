@@ -21,7 +21,6 @@ class Calculator extends Component {
     render() {
 
         const { totalPrice, orders } = this.props;
-
         return (
             <div >
                 <h1 className="text-right">{totalPrice}</h1>
