@@ -26,19 +26,3 @@ export default ProductList;
 
 
 
-/*showProducts() {
-    if (this.props.products) {
-        return this.props.products.map(product => (
-            <ProductItem productName={product.productName} unitPrice={product.unitPrice} />
-        ))
-    }
-}
-
-
-render() {
-    return (
-        <div className="row">
-            {this.showProducts()}
-        </div>
-    )
-}*/

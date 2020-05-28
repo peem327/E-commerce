@@ -65,8 +65,8 @@
       "id": 2
     },
     {
-      "orderedDate": "2020-05-20T09:24:47.859Z",
-      "totalPrice": 270,
+      "orderedDate": "2020-05-28T10:37:22.324Z",
+      "totalPrice": 2270,
       "orders": [
         {
           "product": {
@@ -75,15 +75,8 @@
             "unitPrice": "90",
             "thumbnail": "/images/product/2.jpg"
           },
-          "quantity": 3
-        }
-      ],
-      "id": 3
-    },
-    {
-      "orderedDate": "2020-05-20T09:24:51.309Z",
-      "totalPrice": 560,
-      "orders": [
+          "quantity": 5
+        },
         {
           "product": {
             "id": 4,
@@ -91,15 +84,8 @@
             "unitPrice": "140",
             "thumbnail": "/images/product/4.jpg"
           },
-          "quantity": 4
-        }
-      ],
-      "id": 4
-    },
-    {
-      "orderedDate": "2020-05-20T09:24:54.533Z",
-      "totalPrice": 600,
-      "orders": [
+          "quantity": 3
+        },
         {
           "product": {
             "id": 5,
@@ -108,14 +94,16 @@
             "thumbnail": "/images/product/5.jpg"
           },
           "quantity": 3
-        }
-      ],
-      "id": 5
-    },
-    {
-      "orderedDate": "2020-05-20T09:25:08.055Z",
-      "totalPrice": 560,
-      "orders": [
+        },
+        {
+          "product": {
+            "id": 1,
+            "productName": "สลัดผัก",
+            "unitPrice": "120",
+            "thumbnail": "/images/product/1.jpg"
+          },
+          "quantity": 2
+        },
         {
           "product": {
             "id": 6,
@@ -126,7 +114,7 @@
           "quantity": 4
         }
       ],
-      "id": 6
+      "id": 3
     }
   ]
 }
